@@ -12,12 +12,17 @@ Areas Touched On:
 - Colors
 - Countries
 - Field Names
+- Formatting
 - HTTP settings
-- PostgreSQL settings
+- Mime Types
+- Modes
+- Payment methods
+- PostgresSQL settings
+- Punctuation
+- SendGrid
 - Statuses
+- Stripe.com
+- Text Strings
 - Time Codes and Timezones
 - USA States
 
-Additions are welcome for all programming languages. Also, if you want to add something and don't have the time to do it yourself, open an issue, and I will see if I can get to it. No promises.
-
-For non-go-based code, please add the language to the directory name. Something like this: java-src. I'm open to other ways; let me know your thoughts.
