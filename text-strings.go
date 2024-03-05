@@ -73,6 +73,7 @@ const (
 	TXT_FALSE                        = "false"
 	TXT_GOOD                         = "good"
 	TXT_GOT_WRONG_BOOLEAN            = "Got wrong boolean value."
+	TXT_HTTP_BODY                    = "HTTP BODY: "
 	TXT_HTTP_STATUS                  = "HTTP STATUS CODE: "
 	TXT_INTO                         = "into"
 	TXT_INVALID                      = "INVALID"
