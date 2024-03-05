@@ -114,6 +114,7 @@ const (
 	FN_NICKNAME                           = "nickname"
 	FN_OFFERED_INTEREST_RATE              = "offered_interest_rate"
 	FN_OFFICIAL_NAME                      = "official_name"
+	FN_PASSWORD                           = "password"
 	FN_PAYMENT_FREQENCY                   = "payment_frequency"
 	FN_PERIOD                             = "peroid"
 	FN_PLAID_ACCESS_TOKEN                 = "plaid_access_token"
