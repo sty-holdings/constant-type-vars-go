@@ -81,6 +81,7 @@ const (
 	TXT_MESSAGE_HEADER               = "MESSAGE HEADER: "
 	TXT_MESSAGE_NAMESPACE            = "message_namespace"
 	TXT_MISSING                      = "MISSING"
+	TXT_MISSING_PARAMETER            = "MISSING PARAMETER: "
 	TXT_MISSING_KEY                  = "missing key"
 	TXT_MISSING_VALUE                = "missing value"
 	TXT_NA                           = "N.A."
