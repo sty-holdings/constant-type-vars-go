@@ -1,4 +1,4 @@
-// Package reusable_const_vars
+// Package constant_type_vars
 /*
 This file contains USA states and postal codes
 
@@ -24,17 +24,17 @@ COPYRIGHT and WARRANTY:
 	limitations under the License.
 
 */
-package reusable_const_vars
+package constant_type_vars
 
 //goland:noinspection ALL
 const (
-	STATUS_ACTIVE    = "ACTIVE"
-	STATUS_COMPLETED = "COMPLETED"
-	STATUS_CONFIRMED = "CONFIRMED"
-	STATUS_FAILED    = "FAILED"
-	STATUS_INACTIVE  = "INACTIVE"
-	STATUS_LINKED    = "LINKED"
-	STATUS_PENDING   = "PENDING"
-	STATUS_SUCCESS   = "SUCCESS"
-	STATUS_UNKNOWN   = "UNKNOWN"
+STATUS_ACTIVE = "ACTIVE"
+STATUS_COMPLETED = "COMPLETED"
+STATUS_CONFIRMED = "CONFIRMED"
+STATUS_FAILED = "FAILED"
+STATUS_INACTIVE = "INACTIVE"
+STATUS_LINKED = "LINKED"
+STATUS_PENDING = "PENDING"
+STATUS_SUCCESS = "SUCCESS"
+STATUS_UNKNOWN = "UNKNOWN"
 )

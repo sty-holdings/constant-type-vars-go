@@ -1,4 +1,4 @@
-// Package reusable_const_vars
+// Package constant_type_vars
 /*
 This file contains USA states and postal codes
 
@@ -24,43 +24,43 @@ COPYRIGHT and WARRANTY:
 	limitations under the License.
 
 */
-package reusable_const_vars
+package constant_type_vars
 
 //goland:noinspection ALL
 const (
-	// Extensions
-	NC_INTERNAL      = "nc_internal"
-	STRIPE_EXTENSION = "stripe"
-	//
-	// Fully qualified filenames
-	FQN_CERTIFICATE          = "CertificateFQN"
-	FQN_FIREBASE_CREDENTIALS = "FirebaseCredentialsFQN"
-	FQN_GCP_CREDENTIALS      = "GCPCredentialsFQN"
-	FQN_NATS_CREDENTIALS     = "NATSCredsFQN"
-	FQN_TLS_CABUNDLE         = "TLS:TLSCABundle"
-	FQN_TLS_CERTIFICATE      = "TLS:TLSCert"
-	FQN_TLS_PRIVATE_KEY      = "TLS:TLSKey"
-	// Operators
-	OPER_DOUBE_EQUAL_SIGN = "=="
-	OPER_EQUAL_SIGN       = "="
-	// Text Strings
-	// Software
-	LOCAL_HOST              = "localhost"
-	PID_FILENAME            = "server.pid"
-	DEFAULT_VERSION         = "9999.9999.9999"
-	ENVIRONMENT_LOCAL       = "local"
-	ENVIRONMENT_DEVELOPMENT = "development"
-	ENVIRONMENT_PRODUCTION  = "production"
-	// Testing
-	TEST_POSITIVE_SUCCESS = "Positive Case: Successful: "
-	TEST_NEGATIVE_SUCCESS = "Negative Case: Successful: "
-	// Unassigned
-	ATTEMPT_LIMIT_EXCEEDED  = "Attempt limit exceeded"
-	AUTHENTICATOR_SERVICE   = "AuthenticatorService"
-	NATS_NON_TLS_CONNECTION = "NON-TLS"
-	NATS_TLS_CONNECTION     = "TLS"
-	VALID                   = "VALID"
-	// Values
-	VAL_EMPTY = ""
-	VAL_ZERO  = 0
+// Extensions
+NC_INTERNAL = "nc_internal"
+STRIPE_EXTENSION = "stripe"
+//
+// Fully qualified filenames
+FQN_CERTIFICATE = "CertificateFQN"
+FQN_FIREBASE_CREDENTIALS = "FirebaseCredentialsFQN"
+FQN_GCP_CREDENTIALS = "GCPCredentialsFQN"
+FQN_NATS_CREDENTIALS = "NATSCredsFQN"
+FQN_TLS_CABUNDLE = "TLS:TLSCABundle"
+FQN_TLS_CERTIFICATE = "TLS:TLSCert"
+FQN_TLS_PRIVATE_KEY = "TLS:TLSKey"
+// Operators
+OPER_DOUBE_EQUAL_SIGN = "=="
+OPER_EQUAL_SIGN = "="
+// Text Strings
+// Software
+LOCAL_HOST = "localhost"
+PID_FILENAME = "server.pid"
+DEFAULT_VERSION = "9999.9999.9999"
+ENVIRONMENT_LOCAL = "local"
+ENVIRONMENT_DEVELOPMENT = "development"
+ENVIRONMENT_PRODUCTION = "production"
+// Testing
+TEST_POSITIVE_SUCCESS = "Positive Case: Successful: "
+TEST_NEGATIVE_SUCCESS = "Negative Case: Successful: "
+// Unassigned
+ATTEMPT_LIMIT_EXCEEDED = "Attempt limit exceeded"
+AUTHENTICATOR_SERVICE = "AuthenticatorService"
+NATS_NON_TLS_CONNECTION = "NON-TLS"
+NATS_TLS_CONNECTION = "TLS"
+VALID = "VALID"
+// Values
+VAL_EMPTY = ""
+VAL_ZERO = 0
 )

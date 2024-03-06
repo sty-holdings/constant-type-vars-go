@@ -1,4 +1,4 @@
-// Package reusable_const_vars
+// Package constant_type_vars
 /*
 This file contains USA states and postal codes
 
@@ -24,7 +24,7 @@ COPYRIGHT and WARRANTY:
 	limitations under the License.
 
 */
-package reusable_const_vars
+package constant_type_vars
 
 //goland:noinspection ALL
 const (

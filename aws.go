@@ -28,19 +28,9 @@ package constant_type_vars
 
 //goland:noinspection ALL
 const (
-SPACES_ONE = " "
-SPACES_TWO = "  "
-SPACES_THREE = "   "
-SPACES_FOUR = "    "
-SPACES_SIX = "      "
-SPACES_EIGHT = "        "
-LINE_SHORT = "----------"
-LINE_MEDIUM = "--------------------"
-LINE_LONG = "----------------------------------------"
-EQUAL_LINE_SHORT = "=========="
-EQUAL_LINE_MEDIUM = "===================="
-EQUAL_LINE_LONG = "========================================"
-UNDERSCORE_LINE_SHORT = "__________"
-UNDERSCORE_LINE_MEDIUM = "____________________"
-UNDERSCORE_LINE_LONG = "________________________________________"
+	AUTH_REFRESH_TOKEN       = "REFRESH_TOKEN_AUTH"
+	AUTH_USER_SRP            = "USER_SRP_AUTH"
+	AUTH_ADMIN_USER_PASSWORD = "ADMIN_USER_PASSWORD_AUTH"
+	AUTH_CUSTOM              = "CUSTOM_AUTH"
+	AUTH_USER_PASSWORD_AUTH  = "USER_PASSWORD_AUTH"
 )

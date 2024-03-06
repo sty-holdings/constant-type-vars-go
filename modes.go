@@ -1,4 +1,4 @@
-// Package reusable_const_vars
+// Package constant_type_vars
 /*
 This file contains USA states and postal codes
 
@@ -24,14 +24,14 @@ COPYRIGHT and WARRANTY:
 	limitations under the License.
 
 */
-package reusable_const_vars
+package constant_type_vars
 
 //goland:noinspection ALL
 const (
-	MODE_DEBUG              = "debug"
-	MODE_OUTPUT_DISPLAY     = "display"
-	MODE_OUTPUT_LOG         = "log"
-	MODE_OUTPUT_LOG_DISPLAY = "log and display"
-	MODE_RELEASE            = "release"
-	MODE_TEST               = "test"
+MODE_DEBUG = "debug"
+MODE_OUTPUT_DISPLAY = "display"
+MODE_OUTPUT_LOG = "log"
+MODE_OUTPUT_LOG_DISPLAY = "log and display"
+MODE_RELEASE = "release"
+MODE_TEST = "test"
 )

@@ -1,4 +1,4 @@
-// Package reusable_const_vars
+// Package constant_type_vars
 /*
 This file contains USA states and postal codes
 
@@ -24,13 +24,13 @@ COPYRIGHT and WARRANTY:
 	limitations under the License.
 
 */
-package reusable_const_vars
+package constant_type_vars
 
 //goland:noinspection ALL
 const (
-	POSTGRES_SSL_MODE_DISABLE  = "disable"
-	POSTGRES_SSL_MODE_ALLOW    = "allow"
-	POSTGRES_SSL_MODE_PREFER   = "prefer"
-	POSTGRES_SSL_MODE_REQUIRED = "require"
-	POSTGRES_CONN_STRING       = "dbname=%v user=%v password=%v host=%v port=%v connect_timeout=%v sslmode=%v pool_max_conns=%v"
+POSTGRES_SSL_MODE_DISABLE = "disable"
+POSTGRES_SSL_MODE_ALLOW = "allow"
+POSTGRES_SSL_MODE_PREFER = "prefer"
+POSTGRES_SSL_MODE_REQUIRED = "require"
+POSTGRES_CONN_STRING = "dbname=%v user=%v password=%v host=%v port=%v connect_timeout=%v sslmode=%v pool_max_conns=%v"
 )

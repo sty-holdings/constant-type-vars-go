@@ -1,4 +1,4 @@
-// Package reusable_const_vars
+// Package constant_type_vars
 /*
 This file contains USA states and postal codes
 
@@ -24,19 +24,19 @@ COPYRIGHT and WARRANTY:
 	limitations under the License.
 
 */
-package reusable_const_vars
+package constant_type_vars
 
 //goland:noinspection ALL
 const (
-	CERT_ED25519         = "ED25519"
-	CERT_RSA             = "RSA"
-	CERT_RS265           = "RS256"
-	CERT_ECDSACURVE      = "ECDSACURVE"
-	CERT_ECDSACURVE_P224 = "P224"
-	CERT_ECDSACURVE_P256 = "P256"
-	CERT_ECDSACURVE_P384 = "P384"
-	CERT_ECDSACURVE_P521 = "P521"
-	CERT_PRIVATE_KEY     = "RSA PRIVATE KEY"
-	CERT_PUBLIC_KEY      = "PUBLIC KEY"
-	CERTIFICATE          = "CERTIFICATE"
+CERT_ED25519 = "ED25519"
+CERT_RSA = "RSA"
+CERT_RS265 = "RS256"
+CERT_ECDSACURVE = "ECDSACURVE"
+CERT_ECDSACURVE_P224 = "P224"
+CERT_ECDSACURVE_P256 = "P256"
+CERT_ECDSACURVE_P384 = "P384"
+CERT_ECDSACURVE_P521 = "P521"
+CERT_PRIVATE_KEY = "RSA PRIVATE KEY"
+CERT_PUBLIC_KEY = "PUBLIC KEY"
+CERTIFICATE = "CERTIFICATE"
 )
