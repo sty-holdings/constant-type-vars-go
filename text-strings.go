@@ -79,6 +79,7 @@ const (
 	TXT_INTO                         = "into"
 	TXT_INVALID                      = "INVALID"
 	TXT_LINE_SEPARATOR               = "----------------"
+	TXT_LOGIN_TYPE                   = "LOGIN TYPE: "
 	TXT_MAX_THREADS                  = "MAX THREADS: "
 	TXT_MESSAGE                      = "MESSAGE: "
 	TXT_MESSAGE_HEADER               = "MESSAGE HEADER: "
@@ -94,6 +95,7 @@ const (
 	TXT_NON_SECURE_CONNECTION_FAILED = "Non-secure connection request failed."
 	TXT_NONE                         = "none"
 	TXT_NOT_FOUND                    = "not found"
+	TXT_PASSWORD                     = "PASSWORD: "
 	TXT_PAYMENT_METHOD               = "PAYMENT METHOD: "
 	TXT_PAYMENT_METHOD_TYPE          = "PAYMENT METHOD TYPE: "
 	TXT_PROCESS_MANUALLY             = "Process transfer manually."
@@ -108,4 +110,5 @@ const (
 	TXT_SIGNAL                       = "SIGNAL: "
 	TXT_SUBJECT                      = "SUBJECT: "
 	TXT_TRUE                         = "true"
+	TXT_USERNAME                     = "USERNAME: "
 )
