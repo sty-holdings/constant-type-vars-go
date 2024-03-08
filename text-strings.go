@@ -80,6 +80,7 @@ const (
 	TXT_INVALID                      = "INVALID"
 	TXT_LINE_SEPARATOR               = "----------------"
 	TXT_LOGIN_TYPE                   = "LOGIN TYPE: "
+	TXT_KEY_SET_MISSING              = "Key Set has no keys."
 	TXT_MAX_THREADS                  = "MAX THREADS: "
 	TXT_MESSAGE                      = "MESSAGE: "
 	TXT_MESSAGE_HEADER               = "MESSAGE HEADER: "
