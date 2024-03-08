@@ -109,6 +109,8 @@ const (
 	TXT_SERVER_VERSION               = "SERVER VERSION: "
 	TXT_SIGNAL                       = "SIGNAL: "
 	TXT_SUBJECT                      = "SUBJECT: "
+	TXT_TOKEN_TYPE                   = "TOKEN TYPE: "
+	TXT_TOKEN                        = "TOKEN: "
 	TXT_TRUE                         = "true"
 	TXT_USERNAME                     = "USERNAME: "
 )
