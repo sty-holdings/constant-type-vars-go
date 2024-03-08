@@ -29,6 +29,6 @@ package constant_type_vars
 //goland:noinspection ALL
 const (
 	TOKEN_TYPE_IN      = "id"
-	TOKEN_TYPE_ACCES   = "access"
+	TOKEN_TYPE_ACCESS  = "access"
 	TOKEN_TYPE_REFRESH = "refresh"
 )
