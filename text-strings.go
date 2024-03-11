@@ -109,6 +109,7 @@ const (
 	TXT_SECURE_CONNECTION_FAILED     = "Secure connection request failed."
 	TXT_SERVER_NAME                  = "SERVER_NAME: "
 	TXT_SERVER_VERSION               = "SERVER VERSION: "
+	TXT_SERVICE                      = "SERVICE: "
 	TXT_SIGNAL                       = "SIGNAL: "
 	TXT_SUBJECT                      = "SUBJECT: "
 	TXT_TOKEN_TYPE                   = "TOKEN TYPE: "
