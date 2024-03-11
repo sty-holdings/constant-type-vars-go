@@ -115,4 +115,6 @@ const (
 	TXT_TOKEN                        = "TOKEN: "
 	TXT_TRUE                         = "true"
 	TXT_USERNAME                     = "USERNAME: "
+	TXT_USERPOOL_ID                  = "USERPOOL ID: "
+	TXT_USERPOOL_NAME                = "USERPOOL NAME: "
 )
