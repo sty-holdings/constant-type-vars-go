@@ -160,6 +160,7 @@ const (
 	FN_TOKEN_ACCESS                       = "accessToken"
 	FN_TOKEN_REFRESH                      = "refreshToken"
 	FN_TOKEN_PAYLOAD                      = "tokenPayload"
+	FN_TOKEN_TYPE                         = "tokenType"
 	FN_TOTAL_OFFERING_SIZE                = "total_offering_size"
 	FN_TRANSFER_DIRECTION                 = "transfer_direction"
 	FN_TRANSFER_INSTITUTION_NAME          = "Transfer Bank:"
