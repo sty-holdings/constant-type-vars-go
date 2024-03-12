@@ -30,8 +30,9 @@ package constant_type_vars
 const (
 	TXT_AMOUNT                       = "AMOUNT: "
 	TXT_AT_LEAST_ONE                 = "at least one is required"
-	TXT_AWS_SYSTEM_MANAGER           = "AWS System Manager"
 	TXT_AWS_COGNITO                  = "AWS Cognito"
+	TXT_AWS_STS                      = "AWS Security Token Service (STS)"
+	TXT_AWS_SYSTEM_MANAGER           = "AWS System Manager (SSM)"
 	TXT_BAD                          = "bad"
 	TXT_BYPASS                       = "bypass"
 	TXT_BASE64                       = "BASE64: "
