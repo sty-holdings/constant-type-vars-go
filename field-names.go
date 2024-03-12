@@ -42,6 +42,7 @@ const (
 	FN_AUDIENCE                           = "AUDIENCE"
 	FN_AVAILABLE_FUNDS                    = "available_funds"
 	FN_AWS_ACCESS_KEY_ID                  = "AWS_ACCESS_KEY_ID"
+	FN_AWS_IDENTITY_ID                    = "identityId"
 	FN_AWS_INFO_FQN                       = "AWS_Info_FQN"
 	FN_AWS_PROFILE                        = "AWS_PROFILE"
 	FN_AWS_REGION                         = "AWS_REGION"
