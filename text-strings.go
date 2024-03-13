@@ -103,6 +103,7 @@ const (
 	TXT_PAYMENT_METHOD               = "PAYMENT METHOD: "
 	TXT_PAYMENT_METHOD_TYPE          = "PAYMENT METHOD TYPE: "
 	TXT_PROCESS_MANUALLY             = "Process transfer manually."
+	TXT_PROGRAM_NAME                 = "PROGRAM NAME: "
 	TXT_PROTECTED                    = "PROTECTED"
 	TXT_PUBLIC_KEY                   = "PUBLIC KEY: "
 	TXT_OUTOF                        = "out of"
