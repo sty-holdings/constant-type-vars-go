@@ -75,6 +75,7 @@ const (
 	FN_DATATYPE_COMPLEX128                = "complex128"
 	FN_DATATYPE_BOOL                      = "bool"
 	FN_DATATYPE_STRING                    = "string"
+	FN_DEBUG_MODE_ON                      = "debug_mode_on"
 	FN_DESCRIPTION                        = "description"
 	FN_DOCUMENT_ID                        = "document_id"
 	FN_DURATION                           = "Duration"
