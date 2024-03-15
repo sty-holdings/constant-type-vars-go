@@ -101,6 +101,7 @@ const (
 	FN_LAST_REFRESHED                     = "last_refreshed"
 	FN_LAST_UPDATE_TIMESTAMP              = "last_update_timestamp"
 	FN_LINKED_BANK                        = "linked_bank"
+	FN_LOAD_EXTENSIONS                    = "load_extensions"
 	FN_LOAN_TYPE                          = "loan_type"
 	FN_LOANED_AMOUNT_INVESTED             = "loaned_amount_invested"
 	FN_LOANED_AMOUNT_RETURNED             = "loaned_amount_returned"
