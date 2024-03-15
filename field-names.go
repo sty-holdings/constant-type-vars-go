@@ -144,6 +144,7 @@ const (
 	FN_SET_BANKER_PREFERENCES             = "set_banker_preferences"
 	FN_SHORT_URL                          = "short_URL"
 	FN_SIGNAL                             = "signal"
+	FN_SKELETON                           = "skeleton_config_directory"
 	FN_STATE                              = "state"
 	FN_STATUS                             = "status"
 	FN_STREET_ADDRESS                     = "street_address"
