@@ -134,6 +134,7 @@ const (
 	FN_PHONE_VERIFIED                     = "phone_verified"
 	FN_PID_DIRECTORY                      = "pid_directory"
 	FN_PORT                               = "port"
+	FN_PARAMETER_TYPE                     = "parameterType"
 	FN_PRIVATE_KEY                        = "PrivateKey"
 	FN_PROVIDED_AML_PHOTO                 = "provided_aml_photo"
 	FN_PURPOSE                            = "purpose"
