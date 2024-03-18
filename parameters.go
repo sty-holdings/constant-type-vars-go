@@ -61,10 +61,16 @@ func GetParameterName(parameterType, programName, environment string) string {
 		return fmt.Sprintf(ParameterNameFormat, programName, environment, PARAMETER_NATS_PORT)
 	case PARAMETER_NATS_URL:
 		return fmt.Sprintf(ParameterNameFormat, programName, environment, PARAMETER_NATS_URL)
+	case PARAMETER_TLS_CERT:
+		return fmt.Sprintf(ParameterNameFormat, programName, environment, PARAMETER_TLS_CERT)
 	case PARAMETER_TLS_CERT_FQN:
 		return fmt.Sprintf(ParameterNameFormat, programName, environment, PARAMETER_TLS_CERT_FQN)
+	case PARAMETER_TLS_PRIVATE_KEY:
+		return fmt.Sprintf(ParameterNameFormat, programName, environment, PARAMETER_TLS_PRIVATE_KEY)
 	case PARAMETER_TLS_PRIVATE_KEY_FQM:
 		return fmt.Sprintf(ParameterNameFormat, programName, environment, PARAMETER_TLS_PRIVATE_KEY_FQM)
+	case PARAMETER_TLS_CA_BUNDLE:
+		return fmt.Sprintf(ParameterNameFormat, programName, environment, PARAMETER_TLS_CA_BUNDLE)
 	case PARAMETER_TLS_CA_BUNDLE_FQN:
 		return fmt.Sprintf(ParameterNameFormat, programName, environment, PARAMETER_TLS_CA_BUNDLE_FQN)
 	default:
