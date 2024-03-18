@@ -29,12 +29,12 @@ package constant_type_vars
 //goland:noinspection ALL
 const (
 	// Parameters
-	PARAMETER_TLS_CERT            = "tls_certificate"
-	PARAMETER_TLS_CERT_FQN        = "tls_certificate_fqn"
-	PARAMETER_TLS_PRIVATE_KEY     = "tls_private_key"
-	PARAMETER_TLS_PRIVATE_KEY_FQM = "tls_private_key_fqn"
-	PARAMETER_TLS_CA_BUNDLE       = "tls_ca_bundle"
-	PARAMETER_TLS_CA_BUNDLE_FQN   = "tls_ca_bundle_fqn"
+	PARAMETER_TLS_CERT            = "tls-certificate"
+	PARAMETER_TLS_CERT_FQN        = "tls-certificate-fqn"
+	PARAMETER_TLS_PRIVATE_KEY     = "tls-private-key"
+	PARAMETER_TLS_PRIVATE_KEY_FQM = "tls-private-key-fqn"
+	PARAMETER_TLS_CA_BUNDLE       = "tls-ca-bundle"
+	PARAMETER_TLS_CA_BUNDLE_FQN   = "tls-ca-bundle-fqn"
 
 	// Toekn
 	TOKEN_TYPE_ID      = "id"
