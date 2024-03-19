@@ -156,6 +156,7 @@ const (
 	FN_STRIPE_LOCK                        = "stripe_lock"
 	FN_SUB                                = "sub"
 	FN_SUBJECT                            = "subject"
+	FN_TEMP_DIRECTORY                     = "temporary_directory_fqd"
 	FN_TLS_CA_BUNDLE                      = "tls_ca_bundle"
 	FN_TLS_CA_BUNDLE_FILENAME             = "tls_ca_bundle_filename"
 	FN_TLS_CERTIFICATE                    = "tls_certificate"
