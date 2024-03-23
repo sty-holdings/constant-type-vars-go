@@ -148,6 +148,7 @@ const (
 	FN_SHORT_URL                          = "short_URL"
 	FN_SIGNAL                             = "signal"
 	FN_SKELETON_DIRECTORY                 = "skeleton_config_directory"
+	FN_SERVER_INSTANCE_NUMBER             = "server_instance_number"
 	FN_STATE                              = "state"
 	FN_STATUS                             = "status"
 	FN_STREET_ADDRESS                     = "street_address"
